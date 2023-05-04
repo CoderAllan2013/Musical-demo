@@ -22,3 +22,8 @@ body {
     border-color: aliceblue;
     border-style: double;
   }
+
+.font {
+     font-family: 'Merriweather', serif;
+     font-size: 50px;
+}
